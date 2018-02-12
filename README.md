@@ -18,7 +18,7 @@ https://github.com/kyorosuke/SushiWindow/blob/master/Assets/Statech/Sushi/SushiW
 
 ## Contribution
 プルリクくだしあ
-1. Fork it ( http://github.com//rbdock/fork )
+1. Fork it ( https://github.com/kyorosuke/SushiWindow/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
