@@ -23,3 +23,7 @@ https://github.com/kyorosuke/SushiWindow/blob/master/Assets/Statech/Sushi/SushiW
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
+
+## LICENSE
+
+[MIT Licene](https://github.com/kyorosuke/SushiWindow/blob/master/LICENSE)
