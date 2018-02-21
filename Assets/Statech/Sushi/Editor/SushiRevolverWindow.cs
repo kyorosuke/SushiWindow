@@ -21,7 +21,7 @@ namespace Statech.Editor
             {
                 if (_sushiTextureOrigin == null)
                 {
-                    _sushiTextureOrigin = AssetDatabase.LoadAssetAtPath<Texture>("Assets/Image/sushi.png");
+                    _sushiTextureOrigin = AssetDatabase.LoadAssetAtPath<Texture>("Assets/Statech/Sushi/Image/sushi.png");
                 }
                 return _sushiTextureOrigin;
             }
